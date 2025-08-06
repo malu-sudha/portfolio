@@ -265,6 +265,9 @@ const CV = () => (
 
           <h4 className="text-xl font-semibold text-indigo-600">List of Publications</h4>
           <ul className="list-disc pl-6 text-gray-700">
+<li>Ludlam et al. (2025). <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250706289L/abstract" className="text-indigo-600 hover:underline">The Structure of the Relativistic Fe Line in GX 340+0 as Viewed with XRISM/Resolve, NICER, and NuSTAR</a> ApJ </li>
+<li>Dage et al. (2025). <a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...988..131D/abstract" className="text-indigo-600 hover:underline">Radio Continuum Studies of Ultracompact and Short Orbital Period X-Ray Binaries</a> ApJ </li>
+<li>Li et al. (2025). <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250320050L/abstract" className="text-indigo-600 hover:underline">GX 340+0: In and Out of Focus</a> ApJ </li>
             <li>Malu, S, Ludlam, R. et al. (2024). <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad9588/meta" className="text-indigo-600 hover:underline">A spectro-temporal view of normal branch oscillations in Cygnus X-2 as seen by NICER and NuSTAR.</a> ApJ </li>
             <li>Kaddouh, M. A., Sudha, Malu, & Ludlam, R. M. (2024). <a href="https://doi.org/10.3847/2515-5172/ad7e22" className="text-indigo-600 hover:underline">NICER Observes the Full Z-track in GX 13+1.</a> Research Notes of the American Astronomical Society, 8(9), 243.</li>
             <li>Moutard, D. L., et al. (2024). <a href="https://doi.org/10.3847/1538-4357/ad4a78" className="text-indigo-600 hover:underline">Investigating the Ultracompact X-Ray Binary Candidate SLX 1735-269.</a> 968(2), 51.</li>
